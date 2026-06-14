@@ -1,0 +1,15 @@
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\bin\Debug\net10.0\SingletonPatternExample_exercise1.exe
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\bin\Debug\net10.0\SingletonPatternExample_exercise1.deps.json
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\bin\Debug\net10.0\SingletonPatternExample_exercise1.runtimeconfig.json
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\bin\Debug\net10.0\SingletonPatternExample_exercise1.dll
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\bin\Debug\net10.0\SingletonPatternExample_exercise1.pdb
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\SingletonPatternExample_exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\SingletonPatternExample_exercise1.AssemblyInfoInputs.cache
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\SingletonPatternExample_exercise1.AssemblyInfo.cs
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\SingletonPatternExample_exercise1.csproj.CoreCompileInputs.cache
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\SingletonPatternExample_exercise1.sourcelink.json
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\SingletonPatternExample_exercise1.dll
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\refint\SingletonPatternExample_exercise1.dll
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\SingletonPatternExample_exercise1.pdb
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\SingletonPatternExample_exercise1.genruntimeconfig.cache
+C:\Users\Ankit\OneDrive\Attachments\Desktop\dotnet\DeepSkilling\Module 1 - Design Patterns and Principles\SingletonPatternExample_exercise1\obj\Debug\net10.0\ref\SingletonPatternExample_exercise1.dll
