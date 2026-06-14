@@ -20,7 +20,6 @@ class Product
 class Inventory
 {
     private Dictionary<int, Product> products = new Dictionary<int, Product>();
-
     public void AddProduct(Product product)
     {
         products[product.ProductId] = product;
